@@ -4,6 +4,12 @@
 
 I am Cole Beezley, and I greatly enjoy programming.
 
+I received my Bachelor of Computer Science in May 2022.
+
+I love using a variety of programming languages and tools to develop my front-end and back-end development abilities.
+
+I'm currently working on advancing my full-stack abilities.
+
 ### Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
