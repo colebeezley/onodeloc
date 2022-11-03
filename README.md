@@ -27,7 +27,7 @@ I'm looking to develop my software engineering abilities (both front-end and bac
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Linear Badge](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff&style=for-the-badge)
 
-<div></div>
+
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/985a817b-85dc-45d7-b895-bfc093777433/deploy-status)](https://app.netlify.com/sites/onodeloc/deploys)
 
