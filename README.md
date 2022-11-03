@@ -33,6 +33,8 @@ I'm looking to develop my software engineering abilities (both front-end and bac
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=onodeloc&show_icons=true&hide_border=true" alt="Cole's GitHub Stats">
     <br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=onodeloc&" alt="onodeloc">
+    <br />
     <img src="https://visitor-badge.laobi.icu/badge?page_id=onodeloc.onodeloc" alt="visitors">
 </div>
 
