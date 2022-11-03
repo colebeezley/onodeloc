@@ -6,9 +6,7 @@ I am Cole Beezley, and I greatly enjoy programming.
 
 I received my Bachelor of Computer Science in May 2022.
 
-I love using a variety of programming languages and tools to develop my front-end and back-end development abilities.
-
-I'm currently working on advancing my full-stack abilities.
+I'm looking to develop my software engineering abilities (both front-end and back-end).
 
 ### Languages
 
@@ -28,6 +26,7 @@ I'm currently working on advancing my full-stack abilities.
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Linear Badge](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff&style=for-the-badge)
 
 ## Stats
 
