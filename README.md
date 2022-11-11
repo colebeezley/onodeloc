@@ -2,8 +2,6 @@
 
 I am Cole Beezley, and I greatly enjoy programming.
 
-I received my Bachelor of Computer Science in May 2022.
-
 I'm looking to develop my software engineering abilities (both front-end and back-end).
 
 ### Languages
